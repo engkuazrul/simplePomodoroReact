@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simplePomodoroReact/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/simplePomodoroReact/static/js/main.f2c0a6be.chunk.js",
+    "main.js.map": "/simplePomodoroReact/static/js/main.f2c0a6be.chunk.js.map",
+    "runtime-main.js": "/simplePomodoroReact/static/js/runtime-main.958269b2.js",
+    "runtime-main.js.map": "/simplePomodoroReact/static/js/runtime-main.958269b2.js.map",
+    "static/css/2.fe359a49.chunk.css": "/simplePomodoroReact/static/css/2.fe359a49.chunk.css",
+    "static/js/2.797ffc11.chunk.js": "/simplePomodoroReact/static/js/2.797ffc11.chunk.js",
+    "static/js/2.797ffc11.chunk.js.map": "/simplePomodoroReact/static/js/2.797ffc11.chunk.js.map",
+    "static/js/3.c78f40e1.chunk.js": "/simplePomodoroReact/static/js/3.c78f40e1.chunk.js",
+    "static/js/3.c78f40e1.chunk.js.map": "/simplePomodoroReact/static/js/3.c78f40e1.chunk.js.map",
+    "index.html": "/simplePomodoroReact/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/simplePomodoroReact/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/simplePomodoroReact/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.797ffc11.chunk.js.LICENSE.txt": "/simplePomodoroReact/static/js/2.797ffc11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958269b2.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.797ffc11.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.f2c0a6be.chunk.js"
+  ]
+}
