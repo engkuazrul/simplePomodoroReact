@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/simplePomodoroReact/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/simplePomodoroReact/static/js/main.f2c0a6be.chunk.js",
-    "main.js.map": "/simplePomodoroReact/static/js/main.f2c0a6be.chunk.js.map",
-    "runtime-main.js": "/simplePomodoroReact/static/js/runtime-main.958269b2.js",
-    "runtime-main.js.map": "/simplePomodoroReact/static/js/runtime-main.958269b2.js.map",
-    "static/css/2.fe359a49.chunk.css": "/simplePomodoroReact/static/css/2.fe359a49.chunk.css",
-    "static/js/2.797ffc11.chunk.js": "/simplePomodoroReact/static/js/2.797ffc11.chunk.js",
-    "static/js/2.797ffc11.chunk.js.map": "/simplePomodoroReact/static/js/2.797ffc11.chunk.js.map",
-    "static/js/3.c78f40e1.chunk.js": "/simplePomodoroReact/static/js/3.c78f40e1.chunk.js",
-    "static/js/3.c78f40e1.chunk.js.map": "/simplePomodoroReact/static/js/3.c78f40e1.chunk.js.map",
+    "main.js": "/simplePomodoroReact/static/js/main.24647b2a.chunk.js",
+    "main.js.map": "/simplePomodoroReact/static/js/main.24647b2a.chunk.js.map",
+    "runtime-main.js": "/simplePomodoroReact/static/js/runtime-main.d99ddc27.js",
+    "runtime-main.js.map": "/simplePomodoroReact/static/js/runtime-main.d99ddc27.js.map",
+    "static/css/2.31461e4f.chunk.css": "/simplePomodoroReact/static/css/2.31461e4f.chunk.css",
+    "static/js/2.19f71e13.chunk.js": "/simplePomodoroReact/static/js/2.19f71e13.chunk.js",
+    "static/js/2.19f71e13.chunk.js.map": "/simplePomodoroReact/static/js/2.19f71e13.chunk.js.map",
+    "static/js/3.5c0cbcbd.chunk.js": "/simplePomodoroReact/static/js/3.5c0cbcbd.chunk.js",
+    "static/js/3.5c0cbcbd.chunk.js.map": "/simplePomodoroReact/static/js/3.5c0cbcbd.chunk.js.map",
     "index.html": "/simplePomodoroReact/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/simplePomodoroReact/static/css/2.fe359a49.chunk.css.map",
+    "static/css/2.31461e4f.chunk.css.map": "/simplePomodoroReact/static/css/2.31461e4f.chunk.css.map",
     "static/css/main.2ae47eeb.chunk.css.map": "/simplePomodoroReact/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.797ffc11.chunk.js.LICENSE.txt": "/simplePomodoroReact/static/js/2.797ffc11.chunk.js.LICENSE.txt"
+    "static/js/2.19f71e13.chunk.js.LICENSE.txt": "/simplePomodoroReact/static/js/2.19f71e13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.958269b2.js",
-    "static/css/2.fe359a49.chunk.css",
-    "static/js/2.797ffc11.chunk.js",
+    "static/js/runtime-main.d99ddc27.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.19f71e13.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.f2c0a6be.chunk.js"
+    "static/js/main.24647b2a.chunk.js"
   ]
 }
